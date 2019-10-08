@@ -1,0 +1,32 @@
+{
+  "parametres" : {
+    "var1": "0000000000",
+    "var2": 111
+  },
+
+  "start": "method1",
+
+  "flow1": [
+    {
+      "name": "method1"
+    },
+    {
+      "name": "method2"
+    },
+    {
+      "name": "method3"
+    }
+  ],
+
+  "flow2": [
+    {
+      "name": "method4"
+    },
+    {
+      "name": "method5"
+    },
+    {
+      "name": "method6"
+    }
+  ]
+}
